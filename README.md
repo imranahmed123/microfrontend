@@ -1,5 +1,12 @@
 # microfrontend
 React JS MFA 
+-----------------------------------------------------
+npm init -y
+npm install react-dom --save  # react dom
+npm install @babel/core @babel/preset-env @babel/preset-react babel-loader css-loader html-webpack-plugin sass sass-loader style-loader webpack webpack-cli webpack-dev-server --save-dev 
+--port 8083
+-----------------------------------------------------
+
 
 Micro frontend
 Host App - http://localhost:8085/
